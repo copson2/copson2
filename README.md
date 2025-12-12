@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)" alt="ilustração do status do github">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="programando" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Olá, meu nome é {C0nf}!
 
